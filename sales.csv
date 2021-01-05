@@ -1,0 +1,287 @@
+CATEGORY,PRODUCT,SALES,QUARTER
+Beverages,Sasquatch Ale,179.2,1
+Beverages,Rhonbrau Klosterbier,214.52,1
+Beverages,Guarana Fantastica,529.2,1
+Beverages,Chartreuse verte,590.4,1
+Beverages,Chai,705.6,1
+Beverages,Lakkalikoori,1141.92,1
+Beverages,Ipoh Coffee,1398.4,1
+Beverages,Outback Lager,1508.4,1
+Beverages,Steeleye Stout,1742.4,1
+Beverages,Chang,2720.8,1
+Beverages,Cote de Blaye,25127.36,1
+Beverages,Chang,228,2
+Beverages,Chartreuse verte,360,2
+Beverages,Outback Lager,384,2
+Beverages,Guarana Fantastica,467.55,2
+Beverages,Laughing Lumberjack Lager,518,2
+Beverages,Chai,878.4,2
+Beverages,Steeleye Stout,1008,2
+Beverages,Sasquatch Ale,1037.4,2
+Beverages,Rhonbrau Klosterbier,1508.92,2
+Beverages,Lakkalikoori,1774.08,2
+Beverages,Ipoh Coffee,4496.5,2
+Beverages,Cote de Blaye,12806.1,2
+Beverages,Guarana Fantastica,219.37,3
+Beverages,Laughing Lumberjack Lager,350,3
+Beverages,Chartreuse verte,1100.7,3
+Beverages,Chai,1174.5,3
+Beverages,Ipoh Coffee,1196,3
+Beverages,Rhonbrau Klosterbier,1233.8,3
+Beverages,Outback Lager,1252.5,3
+Beverages,Steeleye Stout,1683,3
+Beverages,Chang,2061.5,3
+Beverages,Lakkalikoori,3261.6,3
+Beverages,Cote de Blaye,7312.12,3
+Beverages,Laughing Lumberjack Lager,42,4
+Beverages,Guarana Fantastica,337.5,4
+Beverages,Sasquatch Ale,750.4,4
+Beverages,Rhonbrau Klosterbier,1233.8,4
+Beverages,Steeleye Stout,1273.5,4
+Beverages,Cote de Blaye,1317.5,4
+Beverages,Lakkalikoori,1705.5,4
+Beverages,Chang,2028.25,4
+Beverages,Chai,2128.5,4
+Beverages,Chartreuse verte,2424.6,4
+Beverages,Outback Lager,2683.5,4
+Beverages,Ipoh Coffee,3979,4
+Condiments,Chef Anton's Cajun Seasoning,225.28,1
+Condiments,Aniseed Syrup,544,1
+Condiments,Louisiana Hot Spiced Okra,816,1
+Condiments,Original Frankfurter grune Sobe,1112.8,1
+Condiments,Louisiana Fiery Hot Pepper Sauce,1347.36,1
+Condiments,Gula Malacca,1994.85,1
+Condiments,Sirop d'erable,2679,1
+Condiments,Vegie-spread,3202.87,1
+Condiments,Genen Shouyu,176.7,2
+Condiments,Vegie-spread,263.4,2
+Condiments,Aniseed Syrup,600,2
+Condiments,Original Frankfurter grune Sobe,1027.78,2
+Condiments,Louisiana Hot Spiced Okra,1224,2
+Condiments,Northwoods Cranberry Sauce,1300,2
+Condiments,Gula Malacca,1753.62,2
+Condiments,Sirop d'erable,1881,2
+Condiments,Louisiana Fiery Hot Pepper Sauce,2150.77,2
+Condiments,Chef Anton's Cajun Seasoning,2970,2
+Condiments,Aniseed Syrup,140,3
+Condiments,Chef Anton's Gumbo Mix,288.22,3
+Condiments,Vegie-spread,842.88,3
+Condiments,Gula Malacca,1093.09,3
+Condiments,Genen Shouyu,1298.12,3
+Condiments,Chef Anton's Cajun Seasoning,1337.6,3
+Condiments,Grandma's Boysenberry Spread,1750,3
+Condiments,Louisiana Fiery Hot Pepper Sauce,1975.54,3
+Condiments,Original Frankfurter grune Sobe,2255.5,3
+Condiments,Sirop d'erable,3021,3
+Condiments,Chef Anton's Gumbo Mix,85.4,4
+Condiments,Aniseed Syrup,440,4
+Condiments,Original Frankfurter grune Sobe,510.9,4
+Condiments,Chef Anton's Cajun Seasoning,682,4
+Condiments,Grandma's Boysenberry Spread,750,4
+Condiments,Louisiana Hot Spiced Okra,918,4
+Condiments,Sirop d'erable,1510.5,4
+Condiments,Gula Malacca,1701.87,4
+Condiments,Vegie-spread,2590.1,4
+Condiments,Northwoods Cranberry Sauce,2960,4
+Condiments,Louisiana Fiery Hot Pepper Sauce,3857.41,4
+Confections,NuNuCa Nub-Nougat-Creme,193.2,1
+Confections,Chocolade,744.6,1
+Confections,Zaanse koeken,817,1
+Confections,Valkoinen suklaa,845,1
+Confections,Teatime Chocolate Biscuits,943.89,1
+Confections,Scottish Longbreads,1267.5,1
+Confections,Sir Rodney's Scones,1418,1
+Confections,Maxilaku,1605.6,1
+Confections,Pavlova,1685.36,1
+Confections,Schoggi Schokolade,1755,1
+Confections,Tarte au sucre,4728,1
+Confections,Gumbar Gummibarchen,5079.6,1
+Confections,Chocolade,162.56,2
+Confections,Zaanse koeken,285.95,2
+Confections,Teatime Chocolate Biscuits,349.6,2
+Confections,Maxilaku,620,2
+Confections,Sir Rodney's Scones,756,2
+Confections,NuNuCa Nub-Nougat-Creme,865.2,2
+Confections,Scottish Longbreads,1062.5,2
+Confections,Gumbar Gummibarchen,1249.2,2
+Confections,Pavlova,2646.08,2
+Confections,Sir Rodney's Marmalade,4252.5,2
+Confections,Tarte au sucre,4547.92,2
+Confections,Schoggi Schokolade,5268,2
+Confections,Chocolade,68.85,3
+Confections,Valkoinen suklaa,385.94,3
+Confections,Scottish Longbreads,492.5,3
+Confections,Zaanse koeken,668.8,3
+Confections,Maxilaku,835,3
+Confections,Teatime Chocolate Biscuits,841.8,3
+Confections,Sir Rodney's Marmalade,1360.8,3
+Confections,Sir Rodney's Scones,1733,3
+Confections,Pavlova,1849.7,3
+Confections,Gumbar Gummibarchen,2061.17,3
+Confections,Schoggi Schokolade,2195,3
+Confections,Tarte au sucre,5472.3,3
+Confections,Teatime Chocolate Biscuits,204.7,4
+Confections,Chocolade,306,4
+Confections,NuNuCa Nub-Nougat-Creme,493.5,4
+Confections,Valkoinen suklaa,942.5,4
+Confections,Pavlova,999.01,4
+Confections,Zaanse koeken,1159,4
+Confections,Sir Rodney's Scones,1434,4
+Confections,Sir Rodney's Marmalade,1701,4
+Confections,Schoggi Schokolade,1756,4
+Confections,Scottish Longbreads,1935,4
+Confections,Gumbar Gummibarchen,2835.68,4
+Confections,Tarte au sucre,6014.6,4
+Dairy Products,Geitost,294,1
+Dairy Products,Queso Manchego La Pastora,456,1
+Dairy Products,Gorgonzola Telino,487,1
+Dairy Products,Queso Cabrales,1357.44,1
+Dairy Products,Mozzarella di Giovanni,1973.8,1
+Dairy Products,Gudbrandsdalsost,2649.6,1
+Dairy Products,Camembert Pierrot,3329.28,1
+Dairy Products,Flotemysost,4454.8,1
+Dairy Products,Raclette Courdavault,9116.8,1
+Dairy Products,Flotemysost,174.15,2
+Dairy Products,Geitost,242.5,2
+Dairy Products,Gudbrandsdalsost,1267.2,2
+Dairy Products,Queso Manchego La Pastora,1396.5,2
+Dairy Products,Mascarpone Fabioli,2220.8,2
+Dairy Products,Gorgonzola Telino,2993.12,2
+Dairy Products,Queso Cabrales,3029.25,2
+Dairy Products,Camembert Pierrot,3989.9,2
+Dairy Products,Mozzarella di Giovanni,4488.2,2
+Dairy Products,Raclette Courdavault,7452.5,2
+Dairy Products,Geitost,99.5,3
+Dairy Products,Queso Cabrales,504,3
+Dairy Products,Queso Manchego La Pastora,1162.8,3
+Dairy Products,Gorgonzola Telino,1458.75,3
+Dairy Products,Flotemysost,2541.29,3
+Dairy Products,Mozzarella di Giovanni,3027.6,3
+Dairy Products,Gudbrandsdalsost,4473,3
+Dairy Products,Raclette Courdavault,5087.5,3
+Dairy Products,Camembert Pierrot,10273.1,3
+Dairy Products,Geitost,150,4
+Dairy Products,Mascarpone Fabioli,448,4
+Dairy Products,Queso Cabrales,656.25,4
+Dairy Products,Mozzarella di Giovanni,2349,4
+Dairy Products,Flotemysost,2472.5,4
+Dairy Products,Gorgonzola Telino,2681.87,4
+Dairy Products,Camembert Pierrot,3060,4
+Dairy Products,Queso Manchego La Pastora,5320,4
+Dairy Products,Gudbrandsdalsost,5652,4
+Dairy Products,Raclette Courdavault,11959.75,4
+Grains/Cereals,Filo Mix,187.6,1
+Grains/Cereals,Gustaf's Knackebrod,201.6,1
+Grains/Cereals,Ravioli Angelo,499.2,1
+Grains/Cereals,Tunnbrod,979.2,1
+Grains/Cereals,Singaporean Hokkien Fried Mee,985.6,1
+Grains/Cereals,Wimmers gute Semmelknodel,2912.7,1
+Grains/Cereals,Gnocchi di nonna Alice,6931.2,1
+Grains/Cereals,Ravioli Angelo,87.75,2
+Grains/Cereals,Gustaf's Knackebrod,504,2
+Grains/Cereals,Filo Mix,742,2
+Grains/Cereals,Tunnbrod,778.5,2
+Grains/Cereals,Singaporean Hokkien Fried Mee,912.8,2
+Grains/Cereals,Wimmers gute Semmelknodel,1735.65,2
+Grains/Cereals,Gnocchi di nonna Alice,9868.6,2
+Grains/Cereals,Filo Mix,226.8,3
+Grains/Cereals,Tunnbrod,423,3
+Grains/Cereals,Ravioli Angelo,585,3
+Grains/Cereals,Wimmers gute Semmelknodel,1679.12,3
+Grains/Cereals,Singaporean Hokkien Fried Mee,2307.2,3
+Grains/Cereals,Gustaf's Knackebrod,3318,3
+Grains/Cereals,Gnocchi di nonna Alice,6771.6,3
+Grains/Cereals,Gustaf's Knackebrod,210,4
+Grains/Cereals,Tunnbrod,396,4
+Grains/Cereals,Wimmers gute Semmelknodel,798,4
+Grains/Cereals,Filo Mix,911.75,4
+Grains/Cereals,Singaporean Hokkien Fried Mee,978.6,4
+Grains/Cereals,Ravioli Angelo,984.75,4
+Grains/Cereals,Gnocchi di nonna Alice,9032.6,4
+Meat/Poultry,Tourtiere,966.42,1
+Meat/Poultry,Mishi Kobe Niku,1396.8,1
+Meat/Poultry,Alice Mutton,2667.6,1
+Meat/Poultry,Perth Pasties,5154.85,1
+Meat/Poultry,Thuringer Rostbratwurst,5702.4,1
+Meat/Poultry,Pate chinois,5710.08,1
+Meat/Poultry,Tourtiere,490.21,2
+Meat/Poultry,Pate chinois,1316.4,2
+Meat/Poultry,Mishi Kobe Niku,1319.2,2
+Meat/Poultry,Perth Pasties,2099.2,2
+Meat/Poultry,Alice Mutton,4013.1,2
+Meat/Poultry,Thuringer Rostbratwurst,4456.44,2
+Meat/Poultry,Tourtiere,666.03,3
+Meat/Poultry,Pate chinois,864,3
+Meat/Poultry,Perth Pasties,1500.6,3
+Meat/Poultry,Alice Mutton,3900,3
+Meat/Poultry,Thuringer Rostbratwurst,8912.88,3
+Meat/Poultry,Pate chinois,936,4
+Meat/Poultry,Tourtiere,978.93,4
+Meat/Poultry,Perth Pasties,4029.48,4
+Meat/Poultry,Mishi Kobe Niku,4219.5,4
+Meat/Poultry,Alice Mutton,6000.15,4
+Meat/Poultry,Thuringer Rostbratwurst,14037.79,4
+Produce,Longlife Tofu,360,1
+Produce,Uncle Bob's Organic Dried Pears,1084.8,1
+Produce,Manjimup Dried Apples,1411.92,1
+Produce,Tofu,2018.1,1
+Produce,Rossle Sauerkraut,4105.92,1
+Produce,Longlife Tofu,128,2
+Produce,Uncle Bob's Organic Dried Pears,1575,2
+Produce,Tofu,2185.5,2
+Produce,Rossle Sauerkraut,3310.56,2
+Produce,Manjimup Dried Apples,8384.6,2
+Produce,Manjimup Dried Apples,1855,3
+Produce,Tofu,1866.97,3
+Produce,Rossle Sauerkraut,1881,3
+Produce,Uncle Bob's Organic Dried Pears,2700,3
+Produce,Longlife Tofu,400,4
+Produce,Tofu,470.81,4
+Produce,Rossle Sauerkraut,3556.8,4
+Produce,Uncle Bob's Organic Dried Pears,3826.5,4
+Produce,Manjimup Dried Apples,11898.5,4
+Seafood,Konbu,61.44,1
+Seafood,Inlagd Sill,68.4,1
+Seafood,Rogede sild,205.2,1
+Seafood,Gravad lax,208,1
+Seafood,Rod Kaviar,216,1
+Seafood,Jack's New England Clam Chowder,385,1
+Seafood,Spegesild,803.52,1
+Seafood,Ikura,1215.2,1
+Seafood,Nord-Ost Matjeshering,1308.24,1
+Seafood,Boston Crab Meat,1474.41,1
+Seafood,Carnarvon Tigers,1500,1
+Seafood,Spegesild,91.8,2
+Seafood,Konbu,168,2
+Seafood,Escargots de Bourgogne,265,2
+Seafood,Gravad lax,421.2,2
+Seafood,Ikura,533.2,2
+Seafood,Rod Kaviar,714,2
+Seafood,Rogede sild,1007,2
+Seafood,Jack's New England Clam Chowder,1242.52,2
+Seafood,Nord-Ost Matjeshering,1838.19,2
+Seafood,Boston Crab Meat,2272,2
+Seafood,Carnarvon Tigers,2362.5,2
+Seafood,Inlagd Sill,2698,2
+Seafood,Rogede sild,190,3
+Seafood,Jack's New England Clam Chowder,468.51,3
+Seafood,Konbu,469.5,3
+Seafood,Nord-Ost Matjeshering,815.54,3
+Seafood,Escargots de Bourgogne,1393.9,3
+Seafood,Spegesild,1504.8,3
+Seafood,Rod Kaviar,1646.25,3
+Seafood,Inlagd Sill,2199.25,3
+Seafood,Ikura,3747.9,3
+Seafood,Boston Crab Meat,3887.92,3
+Seafood,Carnarvon Tigers,7100,3
+Seafood,Konbu,60,4
+Seafood,Escargots de Bourgogne,417.38,4
+Seafood,Spegesild,823.2,4
+Seafood,Rod Kaviar,941.25,4
+Seafood,Nord-Ost Matjeshering,1922.33,4
+Seafood,Inlagd Sill,1928.5,4
+Seafood,Rogede sild,1953.67,4
+Seafood,Boston Crab Meat,2162,4
+Seafood,Jack's New England Clam Chowder,2542.77,4
+Seafood,Ikura,3323.2,4
+Seafood,Carnarvon Tigers,4987.5,4
