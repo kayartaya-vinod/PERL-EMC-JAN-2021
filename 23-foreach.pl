@@ -52,6 +52,21 @@ my %data = (
     Harish =>   { Physics => 82, Maths => 91, Electronics => 94 }
 );
 
+foreach (keys %data) {
+    print "Marks obtained by $_:\n";
+    # $data{$_} --> reference to an object that internally contains a Hash
+    # %{ obj_ref } --> deferences and gets the hash contained with in the object
+    my %mrks = %{$data{$_}};
+
+=this can be simplified
+    foreach (keys %mrks) {
+        print "  $_ : $mrks{$_}\n";
+    }
+=cut
+
+    print "  $_ : $mrks{$_}\n" for keys %mrks;
+}
+
 print '-' x 50, "\n";
 
 my %data1 = (
@@ -60,5 +75,8 @@ my %data1 = (
     Harish =>   [82, 91, 94] 
 );
 
-
-print "-" x 50, "\n";
+foreach (keys %data1) {
+    print "$_: ";
+    # print @{$data1{$_}}, "\n";
+    print join(', ', @{$data1{$_}}), "\n";
+}
