@@ -52,16 +52,6 @@ my %data = (
     Harish =>   { Physics => 82, Maths => 91, Electronics => 94 }
 );
 
-foreach my $student (keys %data) {
-    print "Name : $student\n";
-    my %mrks = %data{$student};
-    # foreach my $sub (keys %mrks) {
-    #     print "\t$sub --> $mrks{$sub}\n";
-    # }
-    print %mrks, "\n";
-}
-
-
 print '-' x 50, "\n";
 
 my %data1 = (
@@ -70,13 +60,5 @@ my %data1 = (
     Harish =>   [82, 91, 94] 
 );
 
-foreach (keys %data1) {
-    print "$_ --> \n";
-    foreach my $m (@data1{$_}) {
-        print "\t$m";
-    }
-    print "\n";
-}
 
 print "-" x 50, "\n";
-
