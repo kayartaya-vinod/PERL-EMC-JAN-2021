@@ -40,7 +40,7 @@ MINOR PRINCIPLES:
 use strict;
 use warnings;
 use Data::Dumper;  
-
+use vinpack::utils qw(line);
 use Person;
 
 # 'new' here is not a keyword; it's just a subroutine.
@@ -51,7 +51,29 @@ use Person;
 my $p1 = new Person("Vinod", "vinod\@vinod.co");
 my $p2 = Person->new("Shyam", "shyam\@xmpl.com");
 
-print Dumper $p1;
-print Dumper $p2;
+# print Dumper $p1;
+# print Dumper $p2;
+
 # regular style of calling a function in a module
 # my $p3 = Person::new("Raj", "raj\@xmpl.com");
+
+
+# $p1 and $p2 are invoking objects.
+$p1->display(); # $p1 is the first parameter
+line;
+Person::display($p1);
+line;
+$p2->display();
+line;
+
+print "p1's name is  : ", $p1->{NAME}, "\n";
+print "p1's email is : ", $p1->{EMAIL}, "\n";
+
+$p1->{NAME} = "Vinod Kumar";
+$p1->display();
+line;
+
+# function overloading behaviour
+print "p2's name is ", $p2->name(), "\n"; # should get name
+$p2->name("Shyam Sundar"); # should set name
+$p2->display();
