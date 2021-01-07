@@ -10,7 +10,7 @@ our @ISA = qw(Exporter); # inheritance (MathUtils IS-A Exporter)
 
 # following array is just another array, but used by the Exporter class, and with out making our
 # module as a subtype of Exporter, this is just an insignificant array.
-our @EXPORT = qw(factorial square); # an array of strings representing the members to be exported
+our @EXPORT = qw(factorial square isPrime primesBetween); # an array of strings representing the members to be exported
 
 sub factorial {
     my ($num) = @_;
@@ -25,6 +25,23 @@ sub square {
     my ($num) = @_;
     die "You must supply a number" unless defined $num;
     $num*$num;
+}
+
+sub isPrime {
+    my ($num) = @_;
+    return 0 if $num==1;
+
+    my $limit = $num/2;
+    foreach (2..$limit) {
+        return 0 if ($num%$_==0);
+    }
+
+    1;
+}
+
+sub primesBetween {
+    my ($from, $to) = @_;
+    grep { isPrime($_) } ($from..$to);
 }
 
 1; # return 1;
