@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book isbn="336182">
+        <title>Let us C</title>
+        <author>Yeashwant Kanetkar</author>
+        <publisher>BPB</publisher>
+        <price>299</price>
+    </book>
+    <book isbn="84A746">
+        <title>Mastering Perl</title>
+        <author>Vinod Kumar</author>
+        <publisher>KVinod Inc</publisher>
+        <price>899</price>
+    </book>
+    <book isbn="938373">
+        <title>XML SOAP Web service</title>
+        <author>John Doe</author>
+        <publisher>ACME publisher</publisher>
+        <price>920</price>
+        <other-titles>
+            <title>RESTful services explained</title>
+            <title>Python a-z</title>
+        </other-titles>
+    </book>
+    <book isbn="330082">
+        <title>C Pearls</title>
+        <author>Yeashwant Kanetkar</author>
+        <publisher>BPB</publisher>
+        <price>499</price>
+    </book>
+    <book isbn="330011">
+        <title>C Jewels</title>
+        <author>Yeashwant Kanetkar</author>
+        <publisher>BPB</publisher>
+        <price>499</price>
+    </book>
+</books>

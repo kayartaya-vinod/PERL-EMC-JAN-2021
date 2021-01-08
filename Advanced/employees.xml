@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="1">
+    <name>Vinay</name>
+    <salary>34000</salary>
+    <dept>ADMIN</dept>
+  </employee>
+  <employee id="2">
+    <name>Vishal Jain</name>
+    <salary>45000</salary>
+    <dept>PROD</dept>
+  </employee>
+  <employee id="3">
+    <name>Kishore Kumar</name>
+    <salary>35000</salary>
+    <dept>ADMIN</dept>
+  </employee>
+  <employee id="4">
+    <name>Ravi Kiran</name>
+    <salary>56000</salary>
+    <dept>PROD</dept>
+  </employee>
+</employees>
