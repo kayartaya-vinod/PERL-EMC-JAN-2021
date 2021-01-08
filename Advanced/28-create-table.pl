@@ -12,7 +12,20 @@ my $cmd = 'create table employees(
     dept varchar(50)
 )';
 
-$dbh->do("drop table if exists employee");
+$cmd = '
+create table products (
+    id integer primary key,
+    name varchar(50) not null,
+    description varchar(255),
+    brand varchar(50),
+    category varchar(50),
+    quantity_per_unit varchar(255),
+    unit_price double,
+    discount double,
+    picture varchar(255)
+)
+';
+# $dbh->do("drop table if exists employee");
 $dbh->do($cmd);
 print "Table employees created successfully\n";
 $dbh->disconnect();
